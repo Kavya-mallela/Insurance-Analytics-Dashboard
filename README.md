@@ -52,11 +52,6 @@ These metrics help evaluate insurance performance and risk levels.
 
 ---
 
-## Dashboard Preview
-
-![Insurance Dashboard](Insurance Analytics Dashboard.png)
----
-
 ## Dataset
 
 The dataset contains insurance policy information including:
